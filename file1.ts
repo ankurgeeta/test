@@ -1,7 +1,6 @@
 
 const a = 'just test stuff'; 
-const commit1 = 'commit1 donefsds';
-const commit2 = 'commit1fsdfs done';
+fsdfsfsdfsconst commit2 = 'commit1fsdfs done';
 const commit3 = 'commit1 done';
 const commit4 = 'commit1 fsdfsfsdone';
 
