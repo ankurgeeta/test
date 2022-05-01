@@ -8,3 +8,6 @@ const commit4 = 'commit1 done';
 let b = 'some branch 1 commit';
 let c = 'some branch 1 commit 2';
 let d = 'some branch 1 commit 3';
+
+let n = 'lets try rebase again';
+
